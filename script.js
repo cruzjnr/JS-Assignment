@@ -1,6 +1,5 @@
 // Question 1: Variables
 
-
 let name = "Ifeanyichukwu John";
 let age = 21;
 let school = "Admission status (waiting)";
