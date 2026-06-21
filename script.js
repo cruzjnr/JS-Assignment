@@ -1,5 +1,6 @@
 // Question 1: Variables
 
+
 let name = "Ifeanyichukwu John";
 let age = 21;
 let school = "Admission status (waiting)";
@@ -7,6 +8,7 @@ let school = "Admission status (waiting)";
 console.log("Name:", name);
 console.log("Age:", age);
 console.log("School:", school);
+
 
 // Question 2: Data Types
 
